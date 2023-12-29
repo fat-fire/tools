@@ -1,5 +1,11 @@
 # Tools to run very simple portfolio simulations
 
+These notebooks were originally created to help decide between investing
+in a managed fund with a higher growth rate and higher fees or the standard
+Vanguard S&P 500 ETF (VOO) with lower fees and lower growth. These tools can
+help visualize and calculate the impact of different fees and growth rates on
+a fund.
+
 There are two notebook files. 
 [Iterative growth calculator](Growth-Calculator--iterative-algorithm.ipynb) 
 and an 
