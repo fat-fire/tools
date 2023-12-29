@@ -13,6 +13,10 @@ and an
 They both calculate the same thing which is given some initial values they 
 predict how a fund or ETF will grow. 
 
+There is a [my binder setup](https://mybinder.org/v2/gh/fat-fire/tools/main?labpath=Growth-Calculator--iterative-algorithm.ipynb) 
+for the iterative growth calculator so anyone can
+play around with the notebook through their browser. Note it can take 20-30 seconds to load.
+
 The exponential growth calculator is simple
 enough it would probably be better suited to a spreadsheet but in the future
 it may be enahnced to be more meaningful.
